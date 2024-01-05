@@ -1,0 +1,16 @@
+nav {
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
+
+a {
+  color: grey;
+  padding-left: 30px;
+}
+
+img {
+  height: 28em;
+  justify-content: center;
+  width: 100%;
+}
